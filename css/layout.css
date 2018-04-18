@@ -22,6 +22,10 @@
   clear: both;
 }
 
+-webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
 /* Posititoning Classes */
 .col-1 {
   float: left;
