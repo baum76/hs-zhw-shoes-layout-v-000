@@ -46,7 +46,3 @@
 [class*="col-"] {
   margin-left: 2%;
 }
-
-.shadow col-2 {
-  max-height: 200px;
-}
