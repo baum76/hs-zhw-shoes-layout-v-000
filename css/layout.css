@@ -23,12 +23,6 @@
 }
 
 /* Posititoning Classes */
-.clearfix:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  height: 0;
-  line-height: 0;
+.shadow img {
+  float: left;
 }
-
